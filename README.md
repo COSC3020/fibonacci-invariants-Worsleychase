@@ -27,3 +27,11 @@ about the current recursive call.
 Describe your reasoning and the conclusion you've come to. Your reasoning is the
 most important part. You do not need to prove that the invariant is correct. Add
 your answer to this markdown file.
+
+# Solution
+
+For returning the correct array, we should assume that (at least) the previous 2 elements hold the correct values. This means that at any point in the loop we know that at least some portion of the array is correctly filled, without this we couldn't use the previous elements to calculate the next which is the whole idea behind the Fibonacci sequence.
+
+## Disclaimer
+
+I used [this](https://www.youtube.com/watch?v=FGgOsCAhFL4) video to help with my understanding of invariants.
