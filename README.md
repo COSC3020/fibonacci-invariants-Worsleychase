@@ -35,3 +35,5 @@ For returning the correct array, we should assume that (at least) the previous 2
 ## Disclaimer
 
 I used [this](https://www.youtube.com/watch?v=FGgOsCAhFL4) video to help with my understanding of invariants.
+
+I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.
